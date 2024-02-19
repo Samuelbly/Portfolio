@@ -12,8 +12,7 @@
 ![Swordpicture3](https://github.com/Samuelbly/Portfolio/assets/90357953/2f8766b9-c61d-4967-a2e8-9b4e184597b1)
 
  Twine Game:
- [Twine Game](https://samuelbly.github.io/IASC-1p04/final_build/IASC%201P04%20Game%20Prototype%20Tunnels%20of%20Light_FinalBuild10.html)
-
+ ![Twine Game](https://samuelbly.github.io/IASC-1p04/final_build/IASC%201P04%20Game%20Prototype%20Tunnels%20of%20Light_FinalBuild10.html)
  
  
  click [here](https://samuelbly.github.io/Portfolio//Portfolio_builds/Game_Design_Portfolio/Portfolio3.html).
