@@ -5,10 +5,7 @@
  ##My Portfolio
 
  About me:
- Contact Information:
-Cell Phone: (571)-426-6728
-Email: Sd19uo@brocku.ca
-Linkedin Profile: linkedin.com/in/samuel-dalbayrak-709716234
+ 
 
 I am an aspiring game designer currently studying for a Bachelor's degree in Interactive Arts and Science at Brock University. I am currently working on a few projects in and out of school that show my love for learning new skill for creating video games. I am very passionate in writing stories for games however I have a variaty of different skills that I have learned in and out of school. In these projects I have created the stories, 3D models, and have done a lot of QA. I am very passionate and knowledgeable about video games as I have done research on game reviews correlating with sales. My goal is to make video games and share my passion with others.
 
@@ -22,7 +19,8 @@ Pictures of my first time 3D modling and animating:
 ![Swordpicture3](https://github.com/Samuelbly/Portfolio/assets/90357953/2f8766b9-c61d-4967-a2e8-9b4e184597b1)
 
 Fish pictures:
- 
+![Fishpicture1](Fishpicture1.png)
+
 
 Story I am currently working on:
  Twine Game:
@@ -57,3 +55,8 @@ videos of QA and the process of them:
  
  
  click [here](https://samuelbly.github.io/Portfolio//Portfolio_builds/Game_Design_Portfolio/Portfolio3.html).
+
+ Contact Information:
+Cell Phone: (571)-426-6728
+Email: Sd19uo@brocku.ca
+Linkedin Profile: linkedin.com/in/samuel-dalbayrak-709716234
