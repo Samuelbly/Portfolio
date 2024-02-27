@@ -32,27 +32,7 @@ Pictures of my first time 3D modling and animating:
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">Maya Sword pictures & Fish pictures</a>
 
-Story I am currently working on:
- 
- Twine Game:
-  [Twine Game in class](https://samuelbly.github.io/IASC-1p04/final_build/IASC%201P04%20Game%20Prototype%20Tunnels%20of%20Light_FinalBuild10.html)
-
- Side project story prologue:
-
- I’ve always loved heroes. Every single day I’ve dreamt about being just as strong and inspiring as the great men and women in the stories I’ve read, with their daring exploits and dashing heroics. There are boundless 
- legends of valiant heroes, but my favorite was called “The Sword of the Sun.” 
-
- Long ago, before a time of kings and leaders during the age of just humans and monsters, two dragons emerged. Their loathing for one another was great, and the ensuing battle shook the world with chaos and destruction. 
- What was once beautiful grassy land was now covered in harsh unforgiving dragon’s fire. Mountains once thought indestructible quickly crumbled to dust, hapless victims of the furious battle raging on their slopes. Ash 
- clouds covered the sky leaving the land dark and lifeless. No town or city was safe from their destructive battle; neither of the dragons seemed to have a winning edge; their battle seemed never ending. All hope was 
- lost- - until one brave knight appeared. After a long and treacherous journey, he fought the two dragons with unforeseeable speed and power; with a swing of his sword, the brave knight slayed the dragons, bringing their 
- destructive battle to an end. 
-
- Standing on top the ruins of what was once a mighty citadel, the world now saved, the brave knight planted his foot on what was once an indestructible rampart and thrust his sword toward the heavens. A huge beam of light 
- shot up to the sky like a beacon of peace, and the world was calm once more. The burning land returned to lush green, and the sun shone through the bleak cloud. It shined brightly on the radiant blade-- and from that 
- moment on, the sword became known as the “Sword of the Sun.” The Knight became a hero, and his story became legend as he was crowned the first King of Knights. 
-
- 
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> Story projects I am working on</a>
   
 
 videos of QA and the process of them:
