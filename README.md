@@ -27,10 +27,8 @@ Skills:
 
 
 Projects I am working on:
-
-Pictures of my first time 3D modling and animating:
  
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">Maya Sword pictures & Fish pictures</a>
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> Story projects I am working on</a>
   
@@ -39,7 +37,7 @@ videos of QA and the process of them:
 
 
 
- [Maya Sword](https://github.com/Samuelbly/Portfolio/blob/main/SwordJustincasefile.mb)
+
 
 
 
