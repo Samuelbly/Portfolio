@@ -30,15 +30,7 @@ Projects I am working on:
 
 Pictures of my first time 3D modling and animating:
  
- Maya Sword pictures:
-![Swordpicture1](https://github.com/Samuelbly/Portfolio/assets/90357953/e607bd81-87d8-44db-bfe5-224ce41960b2)
-![Swordpicture2](https://github.com/Samuelbly/Portfolio/assets/90357953/d83ba1ea-72cd-4deb-adb9-4cc141f5d21f)
-![Swordpicture3](https://github.com/Samuelbly/Portfolio/assets/90357953/2f8766b9-c61d-4967-a2e8-9b4e184597b1)
-
-Fish pictures:
-![Fishpicture1](Fishpicture1.png)
-![Fishpicture2](Fishpicture2.png)
-![Fishpicture3](Fishpicture3.png)
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">Maya Sword pictures & Fish pictures</a>
 
 Story I am currently working on:
  
