@@ -1,4 +1,4 @@
-#Portfolio | Samuel Dalbayrak
+#Game Design Portfolio | Samuel Dalbayrak
 
  Welcome to my Game Design Portfolio.
  
