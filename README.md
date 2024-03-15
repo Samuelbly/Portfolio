@@ -17,7 +17,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 videos of QA and the process of them:
 
-
+<a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a>
 
 
 
