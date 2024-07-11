@@ -1,10 +1,9 @@
-#Portfolio | Samuel Dalbayrak
+# Portfolio | Samuel Dalbayrak
 
- Welcome to my Game Design Portfolio.
+ # Welcome to my Game Design Portfolio.
  
- ##My Portfolio
 
- About me:
+# About me:
  
 I am an aspiring game designer currently studying for a Bachelor's degree in Interactive Arts and Science at Brock University. I am currently working on a few projects in and out of school that show my love for learning new skill for creating video games. I am very passionate in writing stories for games however I have a variaty of different skills that I have learned in and out of school. In these projects I have created the stories, 3D models, and have done a lot of QA. I am very passionate and knowledgeable about video games as I have done research on game reviews correlating with sales. My goal is to make video games and share my passion with others.
 
