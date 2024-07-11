@@ -20,9 +20,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 ### Other Projects for Games
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
-
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> Story projects I am working on</a>
-  
+ 
 <a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a>
 
 
