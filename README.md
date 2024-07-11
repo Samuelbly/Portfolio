@@ -11,10 +11,10 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 ### Narative Game Design Projects:
 
-<a href = "https://github.com/Samuelbly/Portfolio/wiki/Portfolio/Copy of IASC 1P05 Game Proposal document.pdf">Lone Age GDD</a>
+<a href = "Copy of IASC 1P05 Game Proposal document.pdf">Lone Age GDD</a>
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a>
-
+<a href = ""
 
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
