@@ -9,10 +9,12 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 <a href = "https://github.com/Samuelbly/Portfolio/wiki/Skills"> Skills</a>
 
-### Narative Game Design Projects
+### Narative Game Design Projects:
 
+<a href = "https://github.com/Samuelbly/Portfolio/wiki/Portfolio/Copy of IASC 1P05 Game Proposal document.pdf"> </a>
 
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> Story projects I am working on</a>
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a>
+
 
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
