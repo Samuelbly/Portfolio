@@ -15,7 +15,9 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a>
 
+<a href = "GDD.V2.pdf"> Moraveil GDD</a>
 
+###Other Projects for Games
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
 
