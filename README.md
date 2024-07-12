@@ -23,14 +23,6 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
  
 <a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a>
 
-
-
-
-
- 
- 
- click [here](https://samuelbly.github.io/Portfolio//Portfolio_builds/Game_Design_Portfolio/Portfolio3.html).
-
  Contact Information:
 Cell Phone: (571)-426-6728
 Email: Sd19uo@brocku.ca
