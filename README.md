@@ -19,7 +19,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 ### Other Projects for Games
  
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a> - these are pictures of a sword and fish that I 3D modled for a group project.
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a> - These are pictures of a sword and fish that I 3D modled for a group project.
  
 <a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a> - This is a Game testing QA video that I did for a project when I worked with a team of people. 
 
