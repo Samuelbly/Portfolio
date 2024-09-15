@@ -1,4 +1,4 @@
-# Portfolio | Samuel Dalbayrak, Narrative Designer
+# Samuel Dalbayrak | Narrative Designer
 
  # Welcome to my Game Design Portfolio.
  
