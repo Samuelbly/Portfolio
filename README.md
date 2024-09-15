@@ -11,17 +11,17 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 ### Narative Game Design Projects:
 
-<a href = "Copy of IASC 1P05 Game Proposal document.pdf"> Lone Age GDD</a>
+<a href = "Copy of IASC 1P05 Game Proposal document.pdf"> Lone Age GDD</a> - This is a GDD That I made with a group in my first year at University, I worked on the narrative part of the GDD. 
 
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a>
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a> This is a story project that I am currently working on to practice and show my narrative skills.
 
-<a href = "GDD.V2.pdf"> Moraveil GDD</a>
+<a href = "GDD.V2.pdf"> Moraveil GDD</a> - This is a GDD that I worked on with a group for an entire year. This is to show my narrative skills that I worked with a team of people.
 
 ### Other Projects for Games
  
- <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a>
+ <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a> - these are pictures of a sword and fish that I 3D modled for a group project.
  
-<a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a>
+<a href = "https://drive.google.com/file/d/1dVIGj6lK_zRbg0WK1ATY2lbvjfzbO39Z/view?usp=sharing"> Sam's QA video</a> this is a Game testing QA video that I did for a project when I worked with a team of people. 
 
  Contact Information:
 Cell Phone: (571)-426-6728
