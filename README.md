@@ -14,6 +14,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 <a href = "Copy of IASC 1P05 Game Proposal document.pdf"> Lone Age GDD</a> - This is a GDD That I made with a group in my first year at University, I worked on the narrative part of the GDD. 
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a> - This is a story project that I am currently working on to practice and show my narrative skills.
+![King_Of_Knights_Story_Cover](https://github.com/user-attachments/assets/06ccff88-0f2c-4a23-9303-13d66c50a75c)
 
 <a href = "GDD.V2.pdf"> Moraveil GDD</a> - This is a GDD that I worked on with a group for an entire year. This is to show my narrative skills that I worked with a team of people.
 
