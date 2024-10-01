@@ -5,7 +5,7 @@
 
 # About me:
  
-I am an aspiring game designer currently studying for a Bachelor's degree in Interactive Arts and Science at Brock University. I am currently working on a few projects in and out of school that show my love for learning new skill for creating video games. I am very passionate in writing stories for games however I have a variaty of different skills that I have learned in and out of school. In these projects I have created the stories, 3D models, and have done a lot of QA. I am very passionate and knowledgeable about video games as I have done research on game reviews correlating with sales. My goal is to make video games and share my passion with others.
+I am an aspiring game designer currently studying for a Bachelor's degree in Interactive Arts and Science at Brock University. I am currently working on a few projects in and out of school that show my love for learning new skill for creating video games. I am very passionate in writing stories for games, however I have a variaty of different skills that I have learned in and out of school. In these projects I have created the stories, 3D models, and have done a lot of QA. I am very passionate and knowledgeable about video games as I have done research on game reviews correlating with sales. My goal is to make video games and share my passion with others.
 
 <a href = "https://github.com/Samuelbly/Portfolio/wiki/Skills"> Skills</a>
 
@@ -25,5 +25,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
  Contact Information:
 Cell Phone: (571)-426-6728
+
 Email: Sd19uo@brocku.ca
+
 Linkedin Profile: linkedin.com/in/samuel-dalbayrak-709716234
