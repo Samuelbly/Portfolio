@@ -11,7 +11,10 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 ### Narative Game Design Projects:
 
-<a href = "Copy of IASC 1P05 Game Proposal document.pdf"> Lone Age GDD</a> - This is a GDD That I made with a group in my first year at University, I worked on the narrative part of the GDD. 
+<a href = "Copy of IASC 1P05 Game Proposal document.pdf"> Lone Age GDD</a> - This is a GDD That I made with a group in my first year at University, I worked on the narrative part of the GDD.
+
+<img src= "https://github.com/user-attachments/assets/c7d6186e-61f7-4507-a29c-1e3a0168ddd3" width="100" height="100">
+
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a> - This is a story project that I am currently working on to practice and show my narrative skills.
 
