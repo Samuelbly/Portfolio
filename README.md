@@ -23,6 +23,8 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
 <a href = "GDD.V2.pdf"> Moraveil GDD</a> - This is a GDD that I worked on with a group for an entire year. This is to show my narrative skills that I worked with a team of people.
 
+<img src= "https://github.com/user-attachments/assets/039f16b3-6abb-42ca-886c-c843aaee7a88" width="100" height="100">
+
 ### Other Projects for Games
  
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/3D-Modeling">3D modeling Sword pictures & Fish pictures</a> - These are pictures of a sword and fish that I 3D modled for a group project.
