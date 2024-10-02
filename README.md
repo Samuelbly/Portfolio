@@ -15,7 +15,7 @@ I am an aspiring game designer currently studying for a Bachelor's degree in Int
 
  <a href = "https://github.com/Samuelbly/Portfolio/wiki/Story-projects-I-am-working-on"> King of Knights Story</a> - This is a story project that I am currently working on to practice and show my narrative skills.
 
-![King_Of_Knights_Story_Cover]<img src="https://github.com/user-attachments/assets/876e0bd9-167c-42e8-aa85-0a3a8c17f079" width="50" height="50">
+![King_Of_Knights_Story_Cover]<img src="https://github.com/user-attachments/assets/876e0bd9-167c-42e8-aa85-0a3a8c17f079" width="100" height="100">
 
 
 <a href = "GDD.V2.pdf"> Moraveil GDD</a> - This is a GDD that I worked on with a group for an entire year. This is to show my narrative skills that I worked with a team of people.
